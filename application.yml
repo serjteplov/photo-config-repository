@@ -1,0 +1,8 @@
+gateway:
+  ip: 192.168.87.18
+login:
+  url:
+    path: /users/login
+token:
+  expirationIntervalMillis: 5000000
+  secret: kybm8r4sv34lkjh87sknbxm3c
