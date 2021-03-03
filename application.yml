@@ -8,5 +8,5 @@ api.h2console.url.path: /photo-user-service/h2-console/**
 
 authorization.token.header.name: Authorization
 authorization.token.header.prefix: Bearer
-authorization.token.secret: kybm8r4sv34lkjh87sknbxm3c
+authorization.token.secret: kybm8r4sv34lkjh87sknbxm3c666
 authorization.token.expirationIntervalMillis: 555555555
