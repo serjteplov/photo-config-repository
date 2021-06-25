@@ -12,3 +12,4 @@ authorization.token.secret: kybm8r4sv34lkjh87sknbxm3c999
 authorization.token.expirationIntervalMillis: 555555555
 
 albums.url: http://albums-ws/users/%s/albums
+albums.exceptions.not-found.text: For this user albums are not found
