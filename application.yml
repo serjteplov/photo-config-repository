@@ -10,3 +10,5 @@ authorization.token.header.name: Authorization
 authorization.token.header.prefix: Bearer
 authorization.token.secret: kybm8r4sv34lkjh87sknbxm3c999
 authorization.token.expirationIntervalMillis: 555555555
+
+albums.url: http://albums-ws/users/%s/albums
