@@ -1,4 +1,4 @@
-myapplication.environment: Dev profile from config server
+app.environment: Dev profile from config server
 
 spring.datasource.url: jdbc:postgresql://localhost:5432/bob
 spring.datasource.username: bob
