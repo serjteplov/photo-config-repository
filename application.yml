@@ -1,5 +1,6 @@
 gateway:
   ip: 192.168.87.93
+# used in security filter  
 
 authorization.token.header.name: Authorization
 authorization.token.header.prefix: Bearer
