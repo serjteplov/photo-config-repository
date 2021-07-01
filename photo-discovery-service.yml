@@ -1,2 +1,3 @@
+# protecting eureka with basic auth
 spring.security.user.name: test
 spring.security.user.password: "{cipher}9caa4efa30570c73a6b14e7bb4f9993ced460dad3577a6361c5108e99fdffbd0"
