@@ -1,6 +1,7 @@
 gateway:
   ip: 192.168.87.93
 
+spring.cloud.config.uri: http://localhost:8012
 eureka.client.serviceUrl.defaultZone: http://test:${myEureka.password}@localhost:8010/eureka
 myEureka.password: "{cipher}9caa4efa30570c73a6b14e7bb4f9993ced460dad3577a6361c5108e99fdffbd0"
 
