@@ -1,4 +1,4 @@
-myapplication.environment: Prod profile from config server
+app.environment: Prod profile from config server
 
 
 spring.datasource.url: jdbc:postgresql://localhost:5432/bob
