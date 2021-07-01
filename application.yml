@@ -1,10 +1,6 @@
 gateway:
   ip: 192.168.87.93
 
-api.login.url.path: /photo-user-service/users/login
-api.signup.url.path: /photo-user-service/users
-api.h2console.url.path: /photo-user-service/h2-console/**
-
 authorization.token.header.name: Authorization
 authorization.token.header.prefix: Bearer
 
