@@ -1,0 +1,4 @@
+login:
+  url:
+    path: /users/login
+myapplication.environment: Dev profile from config server
