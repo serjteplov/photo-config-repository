@@ -1,4 +1,11 @@
-login:
-  url:
-    path: /users/login
+login.url.path: /users/login
 myapplication.environment: Default profile from config server
+app.useFeign: true
+
+management.endpoints.web.exposure.include: mappings,info,beans,health
+logging.level.ru.serj.photoapp.api.users.client.AlbumsServiceClient: DEBUG
+logging.file.name: photo-user-service.log
+spring.devtools.restart.enabled: true
+feign.hystrix.enabled: true
+spring.zipkin.sender.type: web
+spring.sleuth.sampler.probability: 1
