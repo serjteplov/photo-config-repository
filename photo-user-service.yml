@@ -1,3 +1,4 @@
 login:
   url:
     path: /users/login
+myapplication.environment: Default profile from config server
